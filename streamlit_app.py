@@ -16,3 +16,4 @@ if (angka % 2) == 0:
     st.write(f"{angka} dadi ganteng")
 else: 
     st.write(f"{angka} yanto ganteng")
+st.image("IMG_5880.png", width=300)
